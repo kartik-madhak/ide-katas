@@ -9,8 +9,5 @@
         <module name="idekatas" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="idekatas" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
