@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="feat: inline var example">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/CreateAField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idekatas.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="feat: select multi files example" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -657,7 +648,7 @@
       <option name="project" value="LOCAL" />
       <updated>1517582471372</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -785,8 +776,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Fixed spelling error in ij-osx-extract-method.md" />
-    <MESSAGE value="Re-titled extract method page as &quot;extract method 1&quot; for IntelliJ OS X" />
     <MESSAGE value="Added second Extract Method kata for IntelliJ IDEA on Mac OS X" />
     <MESSAGE value="Corrected link text on two documents" />
     <MESSAGE value="Added missing explanatory text to ij-osx-extract-method-2.md" />
@@ -810,7 +799,9 @@
     <MESSAGE value="Added &quot;extract field&quot; kata for IntelliJ IDEA on Mac OS X." />
     <MESSAGE value="feat: inline method example" />
     <MESSAGE value="feat: inline var example" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: inline var example" />
+    <MESSAGE value="feat: create a field example" />
+    <MESSAGE value="feat: select multi files example" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: select multi files example" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Sender.java">
