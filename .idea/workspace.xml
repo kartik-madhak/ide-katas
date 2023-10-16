@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="feat: next/prev location command">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/WrapInsideFunction.java" afterDir="false" />
+    <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="feat: wrap inside function implementation">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/AddADoc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -650,7 +650,7 @@
       <option name="project" value="LOCAL" />
       <updated>1517582471372</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -778,7 +778,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Corrected link text on two documents" />
     <MESSAGE value="Added missing explanatory text to ij-osx-extract-method-2.md" />
     <MESSAGE value="Minor correction to ij-osx-extract-method-2.md" />
     <MESSAGE value="Significant improvements to IDE navigation doc for IntelliJ IDEA on Mac OS X" />
@@ -803,7 +802,8 @@
     <MESSAGE value="feat: create a field example" />
     <MESSAGE value="feat: select multi files example" />
     <MESSAGE value="feat: next/prev location command" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: next/prev location command" />
+    <MESSAGE value="feat: wrap inside function implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: wrap inside function implementation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Sender.java">
